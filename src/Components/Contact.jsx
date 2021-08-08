@@ -62,7 +62,7 @@ const Contact = () =>
                         message : "",
                     });
             
-                  alert("Thanks for giving feedback.");
+                  alert("Thanks for contacting us get in touch !");
                 } else {
                   
                 }

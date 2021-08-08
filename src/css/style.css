@@ -217,7 +217,8 @@ body {
 /* Responsive */
 @media screen and (max-width: 991px) {
 	.form-v8-content {
-		margin: 180px 20px;
+		margin: 5px 20px;
+		
 		flex-direction:  column;
 		-o-flex-direction:  column;
 		-ms-flex-direction:  column;
