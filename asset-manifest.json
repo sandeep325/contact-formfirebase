@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/contact-formfirebase/static/css/main.f5f80eea.chunk.css",
-    "main.js": "/contact-formfirebase/static/js/main.d8d91be0.chunk.js",
-    "main.js.map": "/contact-formfirebase/static/js/main.d8d91be0.chunk.js.map",
+    "main.css": "/contact-formfirebase/static/css/main.ca125d8c.chunk.css",
+    "main.js": "/contact-formfirebase/static/js/main.a54fe0c1.chunk.js",
+    "main.js.map": "/contact-formfirebase/static/js/main.a54fe0c1.chunk.js.map",
     "runtime-main.js": "/contact-formfirebase/static/js/runtime-main.c91e4308.js",
     "runtime-main.js.map": "/contact-formfirebase/static/js/runtime-main.c91e4308.js.map",
     "static/js/2.36736306.chunk.js": "/contact-formfirebase/static/js/2.36736306.chunk.js",
     "static/js/2.36736306.chunk.js.map": "/contact-formfirebase/static/js/2.36736306.chunk.js.map",
     "index.html": "/contact-formfirebase/index.html",
-    "static/css/main.f5f80eea.chunk.css.map": "/contact-formfirebase/static/css/main.f5f80eea.chunk.css.map",
+    "static/css/main.ca125d8c.chunk.css.map": "/contact-formfirebase/static/css/main.ca125d8c.chunk.css.map",
     "static/js/2.36736306.chunk.js.LICENSE.txt": "/contact-formfirebase/static/js/2.36736306.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c91e4308.js",
     "static/js/2.36736306.chunk.js",
-    "static/css/main.f5f80eea.chunk.css",
-    "static/js/main.d8d91be0.chunk.js"
+    "static/css/main.ca125d8c.chunk.css",
+    "static/js/main.a54fe0c1.chunk.js"
   ]
 }
